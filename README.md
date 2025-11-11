@@ -21,14 +21,14 @@ Exercism/
 
 ## Java Exercises
 
-- [Two Fer](./java/TwoFer/TwoFer.java)
-- [Leap Year](./java/Leap/Leap.java)
+- [AnnalynsInfiltration](./java/AnnalynsInfiltration/AnnalynsInfiltration.javaTwo)
+- [Greeter](./java/Greeter/Greeter.java)
 - [More Solutions](./java/)
 
 ## Test Your Skills
 
 Try extra Java questions here:  
---> [TestYourSkills Folder](./TestYourSkills/)
+- [TestYourSkills Folder](./TestYourSkills/)
 
 ## About Exercism
 
