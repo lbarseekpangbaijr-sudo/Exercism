@@ -1,6 +1,41 @@
-In this repository there a categories of practice questions and problems related to the Java programming language. I also made sure to include my very solution to each problem and you may use them as a reference to find your own solution.
+![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-The categories are as below:
+# ☕ Exercism Java Solutions
 
-Main directory ---> containing all solution from the exercism website.
-Sub-directory ---> containing all problem questions and solution.
+This repo contains my Java solutions from [Exercism.org](https://exercism.org/) and a **TestYourSkills** folder for extra practice problems (without answers).
+
+## 📂 Structure
+
+Exercism/
+├── java/
+│ ├── AnnalynsInfiltration/
+│ │ └── AnnalynsInfiltration.java
+│ ├── Greeter/
+│ │ └── Greeter.java
+│ └── ...
+└── TestYourSkills/
+├── README.md
+├── easy/
+├── medium/
+└── hard/
+
+## 🚀 Java Exercises
+
+- [Two Fer](./java/TwoFer/TwoFer.java)
+- [Leap Year](./java/Leap/Leap.java)
+- [More Solutions](./java/)
+
+## 🧩 Test Your Skills
+
+Try extra Java questions here:  
+👉 [TestYourSkills Folder](./TestYourSkills/)
+
+## 🧠 About Exercism
+
+> [Exercism](https://exercism.org/) helps you grow your coding skills through practice and mentorship.
+
+## 📜 License
+
+[MIT License](./LICENSE)
+
