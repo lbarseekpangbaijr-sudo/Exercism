@@ -2,7 +2,7 @@
 
 This folder contains **practice problems** for Java programmers with no solutions, just questions to challenge yourself.
 
-## 📘 Difficulty Levels
+## Difficulty Levels
 
 - [Easy](./easy/)
 - [Medium](./medium/)
@@ -10,7 +10,7 @@ This folder contains **practice problems** for Java programmers with no solution
 
 Each `.md` file describes one problem.
 
-## 💡 Tip
+## Tip
 
 Try solving these in your own IDE before looking up solutions.
 

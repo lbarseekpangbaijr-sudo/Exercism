@@ -14,10 +14,10 @@ Exercism/
 │ │ └── Greeter.java
 │ └── ...
 └── TestYourSkills/
-├── README.md
 ├── easy/
 ├── medium/
-└── hard/
+├── hard/
+└── README.md
 
 ## Java Exercises
 
