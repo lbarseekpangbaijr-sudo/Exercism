@@ -4,20 +4,21 @@
 
 This repo contains my Java solutions from [Exercism.org](https://exercism.org/) and a **TestYourSkills** folder for extra practice problems (without answers).
 
-## Structure
+## Repository Structure
 
+```bash
 Exercism/
 ├── java/
-│ ├── AnnalynsInfiltration/
-│ │ └── AnnalynsInfiltration.java
-│ ├── Greeter/
-│ │ └── Greeter.java
-│ └── ...
+│   ├── AnnalynsInfiltration/
+│   │   └── AnnalynsInfiltration.java
+│   ├── Greeter/
+│   │   └── Greeter.java
+│   └── ...
 └── TestYourSkills/
-├── easy/
-├── medium/
-├── hard/
-└── README.md
+    ├── easy/
+    ├── medium/
+    ├── hard/
+    └── README.md
 
 ## Java Exercises
 
