@@ -21,7 +21,7 @@ Exercism/
 
 ## Java Exercises
 
-- [AnnalynsInfiltration](./java/AnnalynsInfiltration/AnnalynsInfiltration.javaTwo)
+- [AnnalynsInfiltration](./java/AnnalynsInfiltration/AnnalynsInfiltration.java)
 - [Greeter](./java/Greeter/Greeter.java)
 - [More Solutions](./java/)
 
