@@ -14,5 +14,9 @@ Each `.md` file describes one problem.
 
 Try solving these in your own IDE before looking up solutions.
 
+## 📚 Credits
+
+The questions in this folder were taken from: **Java for Beginners** by *Riccardo Flask*
+
 [⬅ Back to Main Repository](../)
 
