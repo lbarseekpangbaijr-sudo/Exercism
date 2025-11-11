@@ -2,7 +2,7 @@
 
 # Exercism Java Solutions
 
-This repo contains my Java solutions from [Exercism.org](https://exercism.org/) and a **TestYourSkills** folder for extra practice problems (without answers).
+This repo contains my Java solutions from [Exercism.org](https://exercism.org/) and a **TestYourSkills** folder for extra practice problems.
 
 ## Repository Structure
 
@@ -19,6 +19,9 @@ Exercism/
     ├── medium/
     ├── hard/
     └── README.md
+```
+```
+```
 
 ## Java Exercises
 
