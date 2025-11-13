@@ -20,8 +20,6 @@ Exercism/
     ├── hard/
     └── README.md
 ```
-```
-```
 
 ## Java Exercises
 
@@ -36,4 +34,4 @@ Try extra Java questions here:
 
 ## About Exercism
 
-> [Exercism](https://exercism.org/) helps you grow your coding skills through practice and mentorship.
+> [Exercism](https://exercism.org/) helps you grow your coding skills through practice.
